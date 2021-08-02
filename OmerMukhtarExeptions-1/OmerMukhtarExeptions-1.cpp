@@ -1,6 +1,6 @@
 //Omer Mukhtar
 // CIS 1202
-// 30 june 21
+// 30 june 2021
 #include<iostream>
 #include<string>
 
